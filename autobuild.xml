@@ -22,9 +22,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>8da309d24fb0bad8eaaa667fb04c6dc7</string>
+              <string>5afdd5bcb5fe737b4745b66947555e1f</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-sdl-update/rev/290561/arch/Linux/installer/SDL-1.2.15-linux-20140602.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/SDL-1.2.15-linux-201701140155.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -80,9 +80,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>f38c966a430012dc157fdc104f23a59b</string>
+              <string>f2410388c3d4eba429fd71b39906ef2e</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3p-apr/rev/259951/arch/Linux/installer/apr_suite-1.4.5-linux-20120618.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/apr_suite-1.5.2-linux-201609111934.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -166,9 +166,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>92f6a454d90b5740a38fb68e369cc13e</string>
+              <string>0562066573c53887607f9d8d09f357a1</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-ares-update/rev/290399/arch/Linux/installer/ares-1.10.0-linux-20140529.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/ares-1.10.0-linux-201609112048.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -252,9 +252,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>2f076eae296600a1b810ce375dc4b42d</string>
+              <string>9a13c405aa77636adce9fb5e0be60d43</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-boost-update/rev/290566/arch/Linux/installer/boost-1.55.0-linux-20140602.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/boost-1.60.0-linux-201609111643.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -336,9 +336,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>bdec5fe5fd008da4328f84115128ee61</string>
+              <string>0433e9112c91711d8d11ba12d439d46d</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-colladadom-update/rev/290576/arch/Linux/installer/colladadom-2.3-linux-20140602.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/colladadom-2.3-linux-201609111917.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -422,9 +422,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>06149da3d7a34adf40853f813ae55328</string>
+              <string>191aa84e622cd2c219840397e8cc72a9</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-curl-update/rev/295367/arch/Linux/installer/curl-7.38.0-linux-20141010.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/curl-7.50.2-linux-201609120650.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -494,9 +494,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>94b058b9a81114dc4567bd78e4335425</string>
+              <string>07414b0727573b2ca2aafb638b97e17b</string>
               <key>url</key>
-              <string>http://s3.amazonaws.com/viewer-source-downloads/install_pkgs/dbus_glib-0.76-linux-20110310.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/dbus_glib-0.76-linux-201609111953.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -584,9 +584,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>9bd79781b58e556ab1c36084ec4a1c0c</string>
+              <string>158cc3f97432d3fc2e8d88a61ca19eae</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3p-expat/rev/221695/arch/Linux/installer/expat-2.0.1-linux-20110219.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/expat-2.2.0-linux-201609111705.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -670,11 +670,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>1331456a3df95294eaf44fab990f62cd</string>
+              <string>d6147955f739408c076973dc6b88f967</string>
               <key>hash_algorithm</key>
               <string>md5</string>
               <key>url</key>
-              <string>http://depot.alchemyviewer.org/pub/linux/lib/fmodstudio-1.06.07-linux-201507231333.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/fmodstudio-1.08.11-linux-201609112105.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -744,9 +744,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>2843c48e6c84a51e3d6aa05dace4c8c0</string>
+              <string>4fbbccd96c702ffad52d985bd408cc99</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-fontconfig-update/rev/290569/arch/Linux/installer/fontconfig-2.11.0-linux-20140602.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/fontconfig-2.11.0-linux-201609111801.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -848,9 +848,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>52f87a65cc61ec4b05721c079d015b19</string>
+              <string>ee0c9720e3c7dd26476d700dcfb25e2f</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-freetype-update/rev/290557/arch/Linux/installer/freetype-2.4.4-linux-20140602.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/freetype-2.6.3-linux-201609111744.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -998,9 +998,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>176736c52b3cde6ca8e7d9e173d91731</string>
+              <string>afd8244d7984dbd069617eaef92c248b</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3p-glod/rev/268002/arch/Linux/installer/glod-1.0pre4-linux-20121212.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/glod-1.0pre4.201609112044-linux-201609112044.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -1084,9 +1084,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>52257e5eb166a0b69c9c0c38f6e1920e</string>
+              <string>4b0dda66e1a9eccc9cd70e2156656985</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3p-google-breakpad/rev/273079/arch/Linux/installer/google_breakpad-0.0.0-rev1099-linux-20130329.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/google_breakpad-9e60a27-linux-201609112007.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -1156,9 +1156,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>8aedfdcf670348c18a9991ae1b384a61</string>
+              <string>265b0f247619b34a7842f38e67a25690</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3p-google-perftools/rev/262672/arch/Linux/installer/gperftools-2.0-linux-20120727.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/gperftools-2.4.6627f92-linux-201609112018.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -1240,9 +1240,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>03694ade27f53199229c03cbbda89214</string>
+              <string>c56ee419cc7a8ed5dc7af24cee6c8763</string>
               <key>url</key>
-              <string>http://s3.amazonaws.com/viewer-source-downloads/install_pkgs/gtk-atk-pango-glib-linux-20101001.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/gtk_atk_pango_glib-0.0.3-linux-201701132244.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -1298,9 +1298,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>dcca1db348831cdb7c6b26dc4076c597</string>
+              <string>a67f7397b007c2583c1502dc8bd25902</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3p-jpeglib/rev/224895/arch/Linux/installer/jpeglib-8c-linux-20110323.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/jpeglib-1.5.0-linux-201609111949.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -1384,9 +1384,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>840cd9455638c0ea52c613cfddd07d5b</string>
+              <string>99a780e067684999c5ea03c4534ed249</string>
               <key>url</key>
-              <string>http://s3.amazonaws.com/viewer-source-downloads/install_pkgs/jsoncpp-0.5.0-linux-20110315.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/jsoncpp-1.7.3-linux-201609111008.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -1470,9 +1470,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>0c432d2626aea2e91a56335879c92965</string>
+              <string>9e8c9d8ad7e32335e0c205045a5b66dd</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3p-hunspell/rev/259874/arch/Linux/installer/libhunspell-1.3.2-linux-20120616.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/libhunspell-1.4.1-linux-201609111955.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -1550,6 +1550,20 @@
             </map>
             <key>name</key>
             <string>darwin</string>
+          </map>
+          <key>linux</key>
+          <map>
+            <key>archive</key>
+            <map>
+              <key>hash</key>
+              <string>7f9de7ca095be511fb2c1b1f32009db0</string>
+              <key>hash_algorithm</key>
+              <string>md5</string>
+              <key>url</key>
+              <string>http://dwaggy.tk/singularity/libidn-1.33-linux-201609112132.tar.bz2</string>
+            </map>
+            <key>name</key>
+            <string>linux</string>
           </map>
           <key>linux64</key>
           <map>
@@ -1643,6 +1657,20 @@
         <string>libndofdev-open</string>
         <key>platforms</key>
         <map>
+          <key>linux</key>
+          <map>
+            <key>archive</key>
+            <map>
+              <key>hash</key>
+              <string>819e15d25dc5b39f305f4e2c29b503c4</string>
+              <key>hash_algorithm</key>
+              <string>md5</string>
+              <key>url</key>
+              <string>http://dwaggy.tk/singularity/libndofdev_open-0.8-linux-201701140202.tar.bz2</string>
+            </map>
+            <key>name</key>
+            <string>linux</string>
+          </map>
           <key>linux64</key>
           <map>
             <key>archive</key>
@@ -1694,9 +1722,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>3368a25b361c22a03f7ec7e0f8d5ff9d</string>
+              <string>fc96638a537b9d8fea3337ee53c18d28</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-libpng-update/rev/290558/arch/Linux/installer/libpng-1.6.8-linux-20140602.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/libpng-1.6.28-linux-201701132146.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -1780,9 +1808,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>7eb90f075730f8d7d176f8fb7bad5ef5</string>
+              <string>7ad59c7c0451170cd49a4cc01064071f</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-libxml-update/rev/290562/arch/Linux/installer/libxml2-2.9.1-linux-20140602.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/libxml2-2.9.4-linux-201609111728.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -1860,6 +1888,20 @@
             </map>
             <key>name</key>
             <string>darwin</string>
+          </map>
+          <key>linux</key>
+          <map>
+            <key>archive</key>
+            <map>
+              <key>hash</key>
+              <string>3537546abd7834e474a82794f879ee56</string>
+              <key>hash_algorithm</key>
+              <string>md5</string>
+              <key>url</key>
+              <string>http://dwaggy.tk/singularity/llceflib-3.2840.1518.gffd843c-linux-201701142312.tar.bz2</string>
+            </map>
+            <key>name</key>
+            <string>linux</string>
           </map>
           <key>linux64</key>
           <map>
@@ -2090,9 +2132,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>71eaa462eb0bf8842277a3436483a354</string>
+              <string>0de57f67c2e840e8287f0bde61ae85e7</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3p-ogvorbis/rev/229529/arch/Linux/installer/ogg_vorbis-1.2.2-1.3.2-linux-20110511.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/ogg_vorbis-1.3.2-1.3.5-linux-201609111959.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -2176,11 +2218,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>fccdca18a950ac9363c6fb39118b80e1</string>
+              <string>89e0def8da8a93dffc027f74c17f1710</string>
               <key>hash_algorithm</key>
               <string>md5</string>
               <key>url</key>
-              <string>http://s3.amazonaws.com/viewer-source-downloads/install_pkgs/openal-3ad86a1c-linux-20110114.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/openal-1.17.2-1.1.0-linux-201609112002.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -2264,9 +2306,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>0665c18f8cdbe2f90cb0a2f088cfe1a6</string>
+              <string>9ac83e0bbe30855a11d6219ef1f0cb8e</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-openssl-update/rev/290662/arch/Linux/installer/openssl-1.0.1h-linux-20140605.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/openssl-1.0.2h-linux-201609112222.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -2382,9 +2424,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>9f60e56aba35ec90b3045e9d049ac284</string>
+              <string>731814dcf55ec2201def6531935c50aa</string>
               <key>url</key>
-              <string>http://depot.alchemyviewer.org/pub/linux/lib/slvoice-4.5.0009.17865-linux-20141214.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/slvoice-2.1.3010.6270-linux-201701142344.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -2500,9 +2542,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>34306fb90364b182dc770375140d8557</string>
+              <string>be3fee47503530730966f20e03233b89</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3p-uriparser/rev/294298/arch/Linux/installer/uriparser-0.8.0.1-linux-20140918.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/uriparser-0.8.4-linux-201609112019.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -2632,9 +2674,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>174ab797440157956eda7061dae37564</string>
+              <string>0fda07c193961e1d78717233b494127c</string>
               <key>url</key>
-              <string>http://s3.amazonaws.com/viewer-source-downloads/install_pkgs/xmlrpc_epi-0.54.1-linux-20110314.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/xmlrpc_epi-0.54.2-linux-201609111942.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
@@ -2718,9 +2760,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>63a62bb3cbef2aad3cca49cb6f2d0aeb</string>
+              <string>873be966974a0873c31f6e51b231774e</string>
               <key>url</key>
-              <string>http://automated-builds-secondlife-com.s3.amazonaws.com/hg/repo/3pl_3p-zlib-update/rev/290556/arch/Linux/installer/zlib-1.2.8-linux-20140602.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/zlib-1.2.8-linux-201609111523.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>

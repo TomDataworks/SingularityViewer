@@ -1150,15 +1150,48 @@ class Linux_i686_Manifest(LinuxManifest):
         if (not self.standalone()) and self.prefix(src=relpkgdir, dst="lib"):
             self.path("libapr-1.so*")
             self.path("libaprutil-1.so*")
-            self.path("libcef.so")
             self.path("libexpat.so.*")
             self.path("libGLOD.so")
             self.path("libSDL-1.2.so.*")
-            self.path("libalut.so")
+            self.path("libalut.so*")
             self.path("libopenal.so.1")
 
-            self.path("libtcmalloc_minimal.so.0")
-            self.path("libtcmalloc_minimal.so.0.2.2")
+            # Bring in GTK dependencies
+            self.path("libffi.so*")
+            self.path("libatk-1.0.so*")
+            self.path("libcairo.so*")
+            self.path("libgdk_pixbuf-2.0.so*")
+            self.path("libgdk-x11-2.0.so*")
+            self.path("libgio-2.0.so*")
+            self.path("libglib-2.0.so*")
+            self.path("libgmodule-2.0.so*")
+            self.path("libgobject-2.0.so*")
+            self.path("libgthread-2.0.so*")
+            self.path("libgtk-x11-2.0.so*")
+            self.path("libpango-1.0.so*")
+            self.path("libpangocairo-1.0.so*")
+            self.path("libpangoft2-1.0.so*")
+            self.path("libpangoxft-1.0.so*")
+            self.path("libpixman-1.so*")
+            self.path("libharfbuzz.so*")
+            self.path("libfreetype.so*")
+            self.path("libhunspell-*.so*")
+            self.path("libfontconfig.so*")
+
+            try:
+                self.path("libtcmalloc_minimal.so*") #formerly called google perf tools
+                pass
+            except:
+                print "tcmalloc files not found, skipping"
+                pass
+
+            try:
+                self.path("libfmod.so*")
+                pass
+            except:
+                print "Skipping libfmod.so - not found"
+                pass
+
             self.end_prefix("lib")
 
         # Vivox runtimes
@@ -1173,6 +1206,10 @@ class Linux_i686_Manifest(LinuxManifest):
             self.path("libvivoxplatform.so")
             self.end_prefix("lib")
 
+        # plugin runtime
+        if self.prefix(src=relpkgdir, dst="lib"):
+            self.path("libcef.so")
+            self.end_prefix("lib")
 
 class Linux_x86_64_Manifest(LinuxManifest):
     def construct(self):
