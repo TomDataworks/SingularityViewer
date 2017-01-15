@@ -54,6 +54,11 @@ else (STANDALONE)
         X11
         ${FREETYPE_LIBRARIES}
         )
+
+    if (CMAKE_SIZEOF_VOID_P EQUAL 4)
+      list(APPEND UI_LIBRARIES harfbuzz)
+    endif ()
+
   endif (LINUX)
 
   include_directories (

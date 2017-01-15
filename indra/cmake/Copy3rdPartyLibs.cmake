@@ -112,16 +112,10 @@ elseif(LINUX)
     set(SHARED_LIB_STAGING_DIR_RELWITHDEBINFO   "${SHARED_LIB_STAGING_DIR}")
     set(SHARED_LIB_STAGING_DIR_RELEASE          "${SHARED_LIB_STAGING_DIR}")
 
+    # vivox libs will be copied directly by the viewer manifest
     set(vivox_src_dir "${ARCH_PREBUILT_DIRS_RELEASE}")
-    set(vivox_files
-        libsndfile.so.1
-        libortp.so
-        libvivoxoal.so.1
-        libvivoxplatform.so
-        libvivoxsdk.so
-        SLVoice
-        # ca-bundle.crt   #No cert for linux.  It is actually still 3.2SDK.
-       )
+    set(vivox_files)
+
     # *TODO - update this to use LIBS_PREBUILT_DIR and LL_ARCH_DIR variables
     # or ARCH_PREBUILT_DIRS
     set(debug_src_dir "${ARCH_PREBUILT_DIRS_DEBUG}")
